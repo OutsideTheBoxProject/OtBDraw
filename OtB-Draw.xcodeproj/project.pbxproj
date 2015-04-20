@@ -1,0 +1,545 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CF785F991AD6A414000883BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF785F981AD6A414000883BE /* main.m */; };
+		CF785F9C1AD6A414000883BE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CF785F9B1AD6A414000883BE /* AppDelegate.m */; };
+		CF785F9F1AD6A414000883BE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF785F9E1AD6A414000883BE /* ViewController.m */; };
+		CF785FA21AD6A414000883BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF785FA01AD6A414000883BE /* Main.storyboard */; };
+		CF785FA41AD6A414000883BE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF785FA31AD6A414000883BE /* Images.xcassets */; };
+		CF785FA71AD6A414000883BE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CF785FA51AD6A414000883BE /* LaunchScreen.xib */; };
+		CF785FB31AD6A414000883BE /* OtB_DrawTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CF785FB21AD6A414000883BE /* OtB_DrawTests.m */; };
+		CF785FD01AD6CF8E000883BE /* b.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FBD1AD6CF8E000883BE /* b.png */; };
+		CF785FD11AD6CF8E000883BE /* Black.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FBE1AD6CF8E000883BE /* Black.png */; };
+		CF785FD21AD6CF8E000883BE /* Blue.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FBF1AD6CF8E000883BE /* Blue.png */; };
+		CF785FD31AD6CF8E000883BE /* Brown.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC01AD6CF8E000883BE /* Brown.png */; };
+		CF785FD41AD6CF8E000883BE /* Custom-Color.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC11AD6CF8E000883BE /* Custom-Color.png */; };
+		CF785FD51AD6CF8E000883BE /* DarkGreen.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC21AD6CF8E000883BE /* DarkGreen.png */; };
+		CF785FD61AD6CF8E000883BE /* DarkOrange.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC31AD6CF8E000883BE /* DarkOrange.png */; };
+		CF785FD71AD6CF8E000883BE /* Eraser.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC41AD6CF8E000883BE /* Eraser.png */; };
+		CF785FD81AD6CF8E000883BE /* g.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC51AD6CF8E000883BE /* g.png */; };
+		CF785FD91AD6CF8E000883BE /* Grey.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC61AD6CF8E000883BE /* Grey.png */; };
+		CF785FDA1AD6CF8E000883BE /* LightBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC71AD6CF8E000883BE /* LightBlue.png */; };
+		CF785FDB1AD6CF8E000883BE /* LightGreen.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC81AD6CF8E000883BE /* LightGreen.png */; };
+		CF785FDC1AD6CF8E000883BE /* Opacity.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FC91AD6CF8E000883BE /* Opacity.png */; };
+		CF785FDD1AD6CF8E000883BE /* r.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FCA1AD6CF8E000883BE /* r.png */; };
+		CF785FDE1AD6CF8E000883BE /* Red.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FCB1AD6CF8E000883BE /* Red.png */; };
+		CF785FDF1AD6CF8E000883BE /* reset-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FCC1AD6CF8E000883BE /* reset-Small.png */; };
+		CF785FE01AD6CF8E000883BE /* save-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FCD1AD6CF8E000883BE /* save-Small.png */; };
+		CF785FE11AD6CF8E000883BE /* thickness.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FCE1AD6CF8E000883BE /* thickness.png */; };
+		CF785FE21AD6CF8E000883BE /* Yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = CF785FCF1AD6CF8E000883BE /* Yellow.png */; };
+		CFC8FEE11AD91F01000BBD9C /* OtBDraw.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC8FEE01AD91F01000BBD9C /* OtBDraw.png */; };
+		CFC8FEE31AD91F2F000BBD9C /* OtBDrawLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC8FEE21AD91F2F000BBD9C /* OtBDrawLogo.png */; };
+		CFC8FEE71ADA6ED5000BBD9C /* redo.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC8FEE51ADA6ED5000BBD9C /* redo.png */; };
+		CFC8FEE81ADA6ED5000BBD9C /* undo.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC8FEE61ADA6ED5000BBD9C /* undo.png */; };
+		CFC8FEEA1ADA9013000BBD9C /* Eraser_used.png in Resources */ = {isa = PBXBuildFile; fileRef = CFC8FEE91ADA9013000BBD9C /* Eraser_used.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CF785FAD1AD6A414000883BE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CF785F8B1AD6A414000883BE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CF785F921AD6A414000883BE;
+			remoteInfo = "OtB-Draw";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CF785F931AD6A414000883BE /* OtB-Draw.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OtB-Draw.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF785F971AD6A414000883BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF785F981AD6A414000883BE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CF785F9A1AD6A414000883BE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CF785F9B1AD6A414000883BE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CF785F9D1AD6A414000883BE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		CF785F9E1AD6A414000883BE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		CF785FA11AD6A414000883BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CF785FA31AD6A414000883BE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CF785FA61AD6A414000883BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		CF785FAC1AD6A414000883BE /* OtB-DrawTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OtB-DrawTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF785FB11AD6A414000883BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF785FB21AD6A414000883BE /* OtB_DrawTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OtB_DrawTests.m; sourceTree = "<group>"; };
+		CF785FBD1AD6CF8E000883BE /* b.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b.png; sourceTree = "<group>"; };
+		CF785FBE1AD6CF8E000883BE /* Black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Black.png; sourceTree = "<group>"; };
+		CF785FBF1AD6CF8E000883BE /* Blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Blue.png; sourceTree = "<group>"; };
+		CF785FC01AD6CF8E000883BE /* Brown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Brown.png; sourceTree = "<group>"; };
+		CF785FC11AD6CF8E000883BE /* Custom-Color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Custom-Color.png"; sourceTree = "<group>"; };
+		CF785FC21AD6CF8E000883BE /* DarkGreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkGreen.png; sourceTree = "<group>"; };
+		CF785FC31AD6CF8E000883BE /* DarkOrange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkOrange.png; sourceTree = "<group>"; };
+		CF785FC41AD6CF8E000883BE /* Eraser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Eraser.png; sourceTree = "<group>"; };
+		CF785FC51AD6CF8E000883BE /* g.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = g.png; sourceTree = "<group>"; };
+		CF785FC61AD6CF8E000883BE /* Grey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Grey.png; sourceTree = "<group>"; };
+		CF785FC71AD6CF8E000883BE /* LightBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightBlue.png; sourceTree = "<group>"; };
+		CF785FC81AD6CF8E000883BE /* LightGreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightGreen.png; sourceTree = "<group>"; };
+		CF785FC91AD6CF8E000883BE /* Opacity.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Opacity.png; sourceTree = "<group>"; };
+		CF785FCA1AD6CF8E000883BE /* r.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = r.png; sourceTree = "<group>"; };
+		CF785FCB1AD6CF8E000883BE /* Red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red.png; sourceTree = "<group>"; };
+		CF785FCC1AD6CF8E000883BE /* reset-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reset-Small.png"; sourceTree = "<group>"; };
+		CF785FCD1AD6CF8E000883BE /* save-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "save-Small.png"; sourceTree = "<group>"; };
+		CF785FCE1AD6CF8E000883BE /* thickness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thickness.png; sourceTree = "<group>"; };
+		CF785FCF1AD6CF8E000883BE /* Yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yellow.png; sourceTree = "<group>"; };
+		CFC8FEE01AD91F01000BBD9C /* OtBDraw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OtBDraw.png; sourceTree = "<group>"; };
+		CFC8FEE21AD91F2F000BBD9C /* OtBDrawLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OtBDrawLogo.png; sourceTree = "<group>"; };
+		CFC8FEE51ADA6ED5000BBD9C /* redo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redo.png; sourceTree = "<group>"; };
+		CFC8FEE61ADA6ED5000BBD9C /* undo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = undo.png; sourceTree = "<group>"; };
+		CFC8FEE91ADA9013000BBD9C /* Eraser_used.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Eraser_used.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CF785F901AD6A414000883BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF785FA91AD6A414000883BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CF785F8A1AD6A414000883BE = {
+			isa = PBXGroup;
+			children = (
+				CF785FBC1AD6CF8E000883BE /* Graphics */,
+				CF785F951AD6A414000883BE /* OtB-Draw */,
+				CF785FAF1AD6A414000883BE /* OtB-DrawTests */,
+				CF785F941AD6A414000883BE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CF785F941AD6A414000883BE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CF785F931AD6A414000883BE /* OtB-Draw.app */,
+				CF785FAC1AD6A414000883BE /* OtB-DrawTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF785F951AD6A414000883BE /* OtB-Draw */ = {
+			isa = PBXGroup;
+			children = (
+				CF785F9A1AD6A414000883BE /* AppDelegate.h */,
+				CF785F9B1AD6A414000883BE /* AppDelegate.m */,
+				CF785F9D1AD6A414000883BE /* ViewController.h */,
+				CF785F9E1AD6A414000883BE /* ViewController.m */,
+				CF785FA01AD6A414000883BE /* Main.storyboard */,
+				CF785FA31AD6A414000883BE /* Images.xcassets */,
+				CF785FA51AD6A414000883BE /* LaunchScreen.xib */,
+				CF785F961AD6A414000883BE /* Supporting Files */,
+			);
+			path = "OtB-Draw";
+			sourceTree = "<group>";
+		};
+		CF785F961AD6A414000883BE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CF785F971AD6A414000883BE /* Info.plist */,
+				CF785F981AD6A414000883BE /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CF785FAF1AD6A414000883BE /* OtB-DrawTests */ = {
+			isa = PBXGroup;
+			children = (
+				CF785FB21AD6A414000883BE /* OtB_DrawTests.m */,
+				CF785FB01AD6A414000883BE /* Supporting Files */,
+			);
+			path = "OtB-DrawTests";
+			sourceTree = "<group>";
+		};
+		CF785FB01AD6A414000883BE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CF785FB11AD6A414000883BE /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CF785FBC1AD6CF8E000883BE /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				CFC8FEE91ADA9013000BBD9C /* Eraser_used.png */,
+				CFC8FEE51ADA6ED5000BBD9C /* redo.png */,
+				CFC8FEE61ADA6ED5000BBD9C /* undo.png */,
+				CFC8FEE01AD91F01000BBD9C /* OtBDraw.png */,
+				CFC8FEE21AD91F2F000BBD9C /* OtBDrawLogo.png */,
+				CF785FBD1AD6CF8E000883BE /* b.png */,
+				CF785FBE1AD6CF8E000883BE /* Black.png */,
+				CF785FBF1AD6CF8E000883BE /* Blue.png */,
+				CF785FC01AD6CF8E000883BE /* Brown.png */,
+				CF785FC11AD6CF8E000883BE /* Custom-Color.png */,
+				CF785FC21AD6CF8E000883BE /* DarkGreen.png */,
+				CF785FC31AD6CF8E000883BE /* DarkOrange.png */,
+				CF785FC41AD6CF8E000883BE /* Eraser.png */,
+				CF785FC51AD6CF8E000883BE /* g.png */,
+				CF785FC61AD6CF8E000883BE /* Grey.png */,
+				CF785FC71AD6CF8E000883BE /* LightBlue.png */,
+				CF785FC81AD6CF8E000883BE /* LightGreen.png */,
+				CF785FC91AD6CF8E000883BE /* Opacity.png */,
+				CF785FCA1AD6CF8E000883BE /* r.png */,
+				CF785FCB1AD6CF8E000883BE /* Red.png */,
+				CF785FCC1AD6CF8E000883BE /* reset-Small.png */,
+				CF785FCD1AD6CF8E000883BE /* save-Small.png */,
+				CF785FCE1AD6CF8E000883BE /* thickness.png */,
+				CF785FCF1AD6CF8E000883BE /* Yellow.png */,
+			);
+			name = Graphics;
+			path = "OtB-Draw/Graphics";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CF785F921AD6A414000883BE /* OtB-Draw */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF785FB61AD6A414000883BE /* Build configuration list for PBXNativeTarget "OtB-Draw" */;
+			buildPhases = (
+				CF785F8F1AD6A414000883BE /* Sources */,
+				CF785F901AD6A414000883BE /* Frameworks */,
+				CF785F911AD6A414000883BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "OtB-Draw";
+			productName = "OtB-Draw";
+			productReference = CF785F931AD6A414000883BE /* OtB-Draw.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CF785FAB1AD6A414000883BE /* OtB-DrawTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF785FB91AD6A414000883BE /* Build configuration list for PBXNativeTarget "OtB-DrawTests" */;
+			buildPhases = (
+				CF785FA81AD6A414000883BE /* Sources */,
+				CF785FA91AD6A414000883BE /* Frameworks */,
+				CF785FAA1AD6A414000883BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CF785FAE1AD6A414000883BE /* PBXTargetDependency */,
+			);
+			name = "OtB-DrawTests";
+			productName = "OtB-DrawTests";
+			productReference = CF785FAC1AD6A414000883BE /* OtB-DrawTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CF785F8B1AD6A414000883BE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = OutsideTheBox;
+				TargetAttributes = {
+					CF785F921AD6A414000883BE = {
+						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 459882LU49;
+					};
+					CF785FAB1AD6A414000883BE = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = CF785F921AD6A414000883BE;
+					};
+				};
+			};
+			buildConfigurationList = CF785F8E1AD6A414000883BE /* Build configuration list for PBXProject "OtB-Draw" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF785F8A1AD6A414000883BE;
+			productRefGroup = CF785F941AD6A414000883BE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CF785F921AD6A414000883BE /* OtB-Draw */,
+				CF785FAB1AD6A414000883BE /* OtB-DrawTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CF785F911AD6A414000883BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF785FDB1AD6CF8E000883BE /* LightGreen.png in Resources */,
+				CF785FD91AD6CF8E000883BE /* Grey.png in Resources */,
+				CF785FA21AD6A414000883BE /* Main.storyboard in Resources */,
+				CF785FD11AD6CF8E000883BE /* Black.png in Resources */,
+				CF785FD71AD6CF8E000883BE /* Eraser.png in Resources */,
+				CF785FD81AD6CF8E000883BE /* g.png in Resources */,
+				CFC8FEE31AD91F2F000BBD9C /* OtBDrawLogo.png in Resources */,
+				CFC8FEE81ADA6ED5000BBD9C /* undo.png in Resources */,
+				CF785FD41AD6CF8E000883BE /* Custom-Color.png in Resources */,
+				CFC8FEE11AD91F01000BBD9C /* OtBDraw.png in Resources */,
+				CF785FDC1AD6CF8E000883BE /* Opacity.png in Resources */,
+				CF785FA71AD6A414000883BE /* LaunchScreen.xib in Resources */,
+				CFC8FEE71ADA6ED5000BBD9C /* redo.png in Resources */,
+				CF785FD51AD6CF8E000883BE /* DarkGreen.png in Resources */,
+				CF785FE01AD6CF8E000883BE /* save-Small.png in Resources */,
+				CF785FD21AD6CF8E000883BE /* Blue.png in Resources */,
+				CF785FD31AD6CF8E000883BE /* Brown.png in Resources */,
+				CF785FD01AD6CF8E000883BE /* b.png in Resources */,
+				CF785FDF1AD6CF8E000883BE /* reset-Small.png in Resources */,
+				CF785FE21AD6CF8E000883BE /* Yellow.png in Resources */,
+				CF785FA41AD6A414000883BE /* Images.xcassets in Resources */,
+				CF785FDA1AD6CF8E000883BE /* LightBlue.png in Resources */,
+				CF785FDE1AD6CF8E000883BE /* Red.png in Resources */,
+				CFC8FEEA1ADA9013000BBD9C /* Eraser_used.png in Resources */,
+				CF785FDD1AD6CF8E000883BE /* r.png in Resources */,
+				CF785FD61AD6CF8E000883BE /* DarkOrange.png in Resources */,
+				CF785FE11AD6CF8E000883BE /* thickness.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF785FAA1AD6A414000883BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CF785F8F1AD6A414000883BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF785F9F1AD6A414000883BE /* ViewController.m in Sources */,
+				CF785F9C1AD6A414000883BE /* AppDelegate.m in Sources */,
+				CF785F991AD6A414000883BE /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF785FA81AD6A414000883BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CF785FB31AD6A414000883BE /* OtB_DrawTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CF785FAE1AD6A414000883BE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CF785F921AD6A414000883BE /* OtB-Draw */;
+			targetProxy = CF785FAD1AD6A414000883BE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CF785FA01AD6A414000883BE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CF785FA11AD6A414000883BE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CF785FA51AD6A414000883BE /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CF785FA61AD6A414000883BE /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CF785FB41AD6A414000883BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		CF785FB51AD6A414000883BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CF785FB71AD6A414000883BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "OtB-Draw/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		CF785FB81AD6A414000883BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = "OtB-Draw/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+		CF785FBA1AD6A414000883BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "OtB-DrawTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OtB-Draw.app/OtB-Draw";
+			};
+			name = Debug;
+		};
+		CF785FBB1AD6A414000883BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "OtB-DrawTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OtB-Draw.app/OtB-Draw";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CF785F8E1AD6A414000883BE /* Build configuration list for PBXProject "OtB-Draw" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF785FB41AD6A414000883BE /* Debug */,
+				CF785FB51AD6A414000883BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF785FB61AD6A414000883BE /* Build configuration list for PBXNativeTarget "OtB-Draw" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF785FB71AD6A414000883BE /* Debug */,
+				CF785FB81AD6A414000883BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF785FB91AD6A414000883BE /* Build configuration list for PBXNativeTarget "OtB-DrawTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF785FBA1AD6A414000883BE /* Debug */,
+				CF785FBB1AD6A414000883BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CF785F8B1AD6A414000883BE /* Project object */;
+}

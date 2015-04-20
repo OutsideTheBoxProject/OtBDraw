@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="all_elements.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-10.000002 : 571.18108 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="734.09448 : 571.18108 : 1"
+       inkscape:persp3d-origin="362.04724 : 395.78738 : 1"
+       id="perspective3854" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="240.82217"
+     inkscape:cy="880.63678"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1393"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3021"
+       width="50"
+       height="65"
+       x="275"
+       y="92.362183"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="149.5"
+       y="123.86218"
+       id="text2987"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Downloads/Graphics/Graphics/b.png"
+       inkscape:export-xdpi="177.47455"
+       inkscape:export-ydpi="177.47455"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="149.5"
+         y="123.86218">b</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2991"
+       sodipodi:cx="252.5"
+       sodipodi:cy="89.862183"
+       sodipodi:rx="17.5"
+       sodipodi:ry="17.5"
+       d="m 270,89.862183 a 17.5,17.5 0 1 1 -35,0 17.5,17.5 0 1 1 35,0 z"
+       transform="translate(-2.5,10)"
+       inkscape:export-filename="/Users/katta/Downloads/Graphics/Graphics/Yellow.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="76.5"
+       y="188.36218"
+       id="text3848"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Downloads/Graphics/Graphics/Custom-Color.png"
+       inkscape:export-xdpi="203.83977"
+       inkscape:export-ydpi="203.83977"><tspan
+         sodipodi:role="line"
+         id="tspan3850"
+         x="76.5"
+         y="188.36218">Eigene Farbe</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3884"
+       width="30"
+       height="50"
+       x="280"
+       y="102.36218"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 280,102.36218 10,-4.999997 30,0 -10,4.999997 0,0 0,0 0,0"
+       id="path3886"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 310,152.36218 10,-10 0,-44.999997"
+       id="path3888"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 280,117.36218 30,0 10,-5"
+       id="path3906"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35355338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 280.7997,109.89754 0,-6.89429 14.31892,0 14.31891,0 0,6.89429 0,6.89429 -14.31891,0 -14.31892,0 0,-6.89429 z"
+       id="path3914"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35355338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 310.49819,109.44905 0,-6.63568 4.41942,-2.20137 4.41941,-2.201363 0,6.712993 0,6.713 -4.2372,2.12405 c -2.33046,1.16822 -4.3192,2.12404 -4.41942,2.12404 -0.10022,0 -0.18221,-2.98605 -0.18221,-6.63567 z"
+       id="path3916"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35355338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 286.90022,99.798895 3.44886,-1.753999 13.12894,0.09269 13.12894,0.09269 -3.18549,1.679379 -3.18549,1.679375 -13.39231,-0.0181 -13.39232,-0.0181 3.44887,-1.753995 z"
+       id="path3918"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#aaeeff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35355338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 280.7997,134.99983 0,-16.79379 14.31892,0 14.31891,0 0,16.79379 0,16.79378 -14.31891,0 -14.31892,0 0,-16.79378 z"
+       id="path3924"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#aaeeff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35355338;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 310.49819,134.37853 0,-16.52059 4.2372,-2.12405 c 2.33047,-1.16822 4.3192,-2.12404 4.41942,-2.12404 0.10022,0 0.18221,6.40612 0.18221,14.23583 l 0,14.23583 -4.41941,4.4088 -4.41942,4.40881 0,-16.52059 z"
+       id="path3926"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/Eraser_used.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="300.87393"
+       y="41.55304"
+       id="text3928"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Downloads/Graphics/Graphics/g.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3930"
+         x="300.87393"
+         y="41.55304">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="362.39224"
+       y="226.81502"
+       id="text3936"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Downloads/Graphics/Graphics/Opacity.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3938"
+         x="362.39224"
+         y="226.81502">Deckkraft</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="313.24829"
+       y="290.45462"
+       id="text3940"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Downloads/Graphics/Graphics/r.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3942"
+         x="313.24829"
+         y="290.45462">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="20"
+       y="257.36218"
+       id="text3944"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/reset-Small.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3946"
+         x="20"
+         y="257.36218">Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="25"
+       y="302.36218"
+       id="text3948"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/save-Small.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3950"
+         x="25"
+         y="302.36218">Save</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abel;-inkscape-font-specification:Abel"
+       x="160"
+       y="347.36218"
+       id="text3952"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/katta/Downloads/Graphics/Graphics/thickness.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan3954"
+         x="160"
+         y="347.36218">Linie</tspan></text>
+    <g
+       id="g3113"
+       inkscape:export-filename="/Users/katta/Programming/OtBDraw/OtB-Draw/OtB-Draw/Graphics/redo.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="matrix(-1,0,0,1,931.57789,0)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 475.27525,389.28979 c 0.7529,-0.71571 1.51551,-1.42222 2.30762,-2.09585 0.62648,-0.4804 0.99446,-1.08682 1.20883,-1.82766 0.2068,-0.84567 0.17506,-1.71161 0.1002,-2.5703 -0.0989,-1.6412 -1.01834,-2.98333 -1.8816,-4.33191 -1.30948,-1.89747 -2.70951,-3.72745 -4.36836,-5.34066 -1.70818,-1.55584 -3.84539,-2.38818 -6.03171,-3.05149 -2.11322,-0.57501 -4.30137,-0.72019 -6.48136,-0.79476 -1.03524,0.009 -2.07993,-0.0954 -3.10971,0.046 -0.14941,0.0205 -0.30515,0.0238 -0.44555,0.0781 -0.10879,0.0422 -0.18868,0.13597 -0.28303,0.20396 8.58334,-4.24636 4.86882,-3.14143 3.74304,-2.00327 0,0 -4.70486,1.9964 -4.70486,1.9964 l 0,0 c 1.07376,-1.77411 2.25534,-1.78365 4.96001,-3.1155 1.27027,-0.27726 2.59214,-0.0595 3.87893,-0.0706 2.20173,0.10834 4.40617,0.29678 6.53072,0.91754 2.244,0.71158 4.42433,1.62281 6.16112,3.24625 1.67124,1.65071 3.08112,3.51736 4.4445,5.4198 0.92336,1.39626 1.90616,2.7868 2.07534,4.49281 0.10134,0.89907 0.18471,1.80957 0.007,2.70601 -0.17008,0.81527 -0.43913,1.55146 -1.08969,2.11851 -0.78912,0.65787 -1.57354,1.32055 -2.29651,2.04894 0,0 -4.72437,1.92763 -4.72437,1.92763 z"
+         id="path3109"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.96742201;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 452.75006,356.91132 c -0.16327,3.69705 -0.15765,7.39889 -0.15062,11.09871 0.0912,2.50571 -0.0729,5.03525 0.22719,7.53027 0.0527,0.10005 0.064,0.23734 0.15806,0.30015 0.1642,0.10968 1.90273,0.0373 1.99301,0.0358 1.98624,-0.032 0.5499,-0.0565 2.70577,0.025 2.53316,0.25021 5.06442,0.84319 7.40974,1.84334 0,0 -4.27763,2.84846 -4.27763,2.84846 l 0,0 c -2.27171,-0.9988 -4.72731,-1.59325 -7.2041,-1.74777 -2.9641,-0.0262 -0.027,-0.022 -2.76312,0.0336 -0.72885,0.0148 -1.83375,0.1592 -2.40504,-0.46281 -0.11809,-0.12857 -0.14304,-0.3185 -0.21457,-0.47776 -0.18415,-2.56726 0.0915,-5.14349 0.0259,-7.71446 0.007,-3.64862 0.0154,-7.29949 -0.15062,-10.94522 0,0 4.64607,-2.36729 4.64607,-2.36729 z"
+         id="path3111"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>
