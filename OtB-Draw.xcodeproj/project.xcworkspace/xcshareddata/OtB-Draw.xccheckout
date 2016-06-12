@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EAF22CAC-37B2-49C0-8DC6-350D4ADE4E25</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OtB-Draw</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3303400C44D5583E68E15E70FA02EC62B27A0B2</key>
+		<string>https://github.com/OutsideTheBoxProject/OtBDraw.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OtB-Draw.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3303400C44D5583E68E15E70FA02EC62B27A0B2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/OutsideTheBoxProject/OtBDraw.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3303400C44D5583E68E15E70FA02EC62B27A0B2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3303400C44D5583E68E15E70FA02EC62B27A0B2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OtBDraw</string>
+		</dict>
+	</array>
+</dict>
+</plist>
